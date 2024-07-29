@@ -1,4 +1,4 @@
-# NOMAD's schema for HZB perovskite research
+# NOMAD's schema for HIERN solar cell research
 
 See [here](https://nomad-hzb.github.io/nomad-baseclasses/) for the documentation.
 
